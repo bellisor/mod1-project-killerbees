@@ -46,7 +46,10 @@ Our objectives for the project:
 * Use the insight and Visualizations from our data to present clear and concise recommendations.
 * Timely completion of deliverables
 
-
+# Questions 
+* How do the most successful movies utilize existing IP or are they completely original?
+* What are the most successful genres of the last decade?
+* Does hiring popular actors and directors have an impact on the success of a film?
 
 # The Dataset
 We used a combination of webscraping and API calls for our project. 
