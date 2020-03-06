@@ -32,7 +32,10 @@ produce? What should the budget requirements be? Should they recruit certain act
 
 ## Posted to git repo:
 - README.me
-- Python files and Jupyter notebooks with clean and commented code 
+- Python files and Jupyter notebooks with clean and commented code
+* api_final, 
+* scraping_final,
+* and analysis_final
 - A link to our Google slide show
 
 
@@ -81,7 +84,9 @@ To examine the top films of the decade we filtered the top 25 movies of the deca
 
 Further filtering our data, we created a list of the top 25 movies of the decade, 24/25 of these films stemmed from existing IPs in video games, television, movies, or books. The only outlier was Disney's "Frozen" which is loosely based on the 1845 novel, "Snow Queen" by Hans Christian Andersen. Our conclusion is that, by utilizing existing IP's, you can increase liklihood of a film having a higher gross revenue over its lifetime.
 
+
 [Insert Pie Char Here]
+![Pie Chart](/images/pie_chart_og_ip.png)
 We used a simple pie chart to emphasize this statistic.
 
 ## 2. Highest lifetime gross  Genres Action, Adventure, Sci-Fi.
