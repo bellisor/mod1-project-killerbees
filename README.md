@@ -101,9 +101,11 @@ We wanted to find out what the popular genres in the movie industry are today. B
 While the relationship between big name actors, top directors and high grossing films might seem commensense, we present statistical evidence that demonstrates there is a positive relationship between the two. 
 
 * Interesting insight, while the top grossing movies were directed by men, recent data from TMDB points that the average popular director is female
-[Insert Bar graphs]
-![Actor Bar Chart](/images/br_cht_actors_alg.png)
-![Directors Bar Chart](/images/brcht_director_ALG.png)
+
+![Actor Bar Chart](/images/brcht_actors_alg.png)
+
+![Directors Bar Chart](/images/brcht_dIrector_ALG.png)
+
 
 # Next Steps
 
