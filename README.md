@@ -50,6 +50,7 @@ Our objectives for the project:
 * How do the most successful movies utilize existing IP or are they completely original?
 * What are the most successful genres of the last decade?
 * Does hiring popular actors and directors have an impact on the success of a film?
+* Assuming the above statement is true, is it enough to for the quality of the film?
 
 # The Dataset
 We used a combination of webscraping and API calls for our project. 
@@ -89,7 +90,7 @@ We wanted to find out what the popular genres in the movie industry are today. B
 
 [Insert Boxplot]
 
-## 3. Actors and directors
+## 3. Hiring accomplished Actors and Directors has a positive trend on Gross Income.
 While the relationship between big name actors, top directors and high grossing films might seem commensense, we present statistical evidence that demonstrates there is a positive relationship between the two. 
 
 * Interesting insight, while the top grossing movies were directed by men, recent data from TMDB points that the average popular director is female
