@@ -85,22 +85,25 @@ To examine the top films of the decade we filtered the top 25 movies of the deca
 Further filtering our data, we created a list of the top 25 movies of the decade, 24/25 of these films stemmed from existing IPs in video games, television, movies, or books. The only outlier was Disney's "Frozen" which is loosely based on the 1845 novel, "Snow Queen" by Hans Christian Andersen. Our conclusion is that, by utilizing existing IP's, you can increase liklihood of a film having a higher gross revenue over its lifetime.
 
 
-[Insert Pie Char Here]
+
 ![Pie Chart](/images/pie_chart_og_ip.png)
+
 We used a simple pie chart to emphasize this statistic.
 
 ## 2. Highest lifetime gross  Genres Action, Adventure, Sci-Fi.
 
 We wanted to find out what the popular genres in the movie industry are today. By comparing the descriptive statistics of each of the genres, plotted over Adjusted Lifetime Gross, we were able to see that the three franchises with the highest gross were Action, Adventure, and Sci-Fi
 
-[Insert Boxplot]
+![BoxPlot](/images/realbox.png)
+
 
 ## 3. Hiring accomplished Actors and Directors has a positive trend on Gross Income.
 While the relationship between big name actors, top directors and high grossing films might seem commensense, we present statistical evidence that demonstrates there is a positive relationship between the two. 
 
 * Interesting insight, while the top grossing movies were directed by men, recent data from TMDB points that the average popular director is female
 [Insert Bar graphs]
-
+![Actor Bar Chart](/images/br_cht_actors_alg.png)
+![Directors Bar Chart](/images/brcht_director_ALG.png)
 
 # Next Steps
 
